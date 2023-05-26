@@ -1,0 +1,40 @@
+.catalog_container{
+    padding:0 3%;
+}
+.catalog_heading{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 85px;
+}
+.tables_container{
+    display:flex;
+    gap:30px;
+    flex-wrap:wrap;
+}
+.tables_item{
+    text-align: center;
+    width:fit-content;
+    margin-bottom:10px;
+}
+.tables_item>img{
+    width:257.44px;
+    height:258.2px;
+}
+.tables_item>h4{
+    font-family: 'Playfair Display';
+}
+.tables_item>button{
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    width:257.44px;
+    font-size:24px;
+    font-family:'Lato';
+    font-style: normal;
+    font-weight:200;
+    padding:9px 0;
+}
+.tables_item>button:hover{
+    cursor: pointer;
+}

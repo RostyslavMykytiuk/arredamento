@@ -1,0 +1,49 @@
+{
+    "tables":[
+        {
+            "image":"../../assets/table1.png",
+            "price":"10.988",
+            "title":"N.12 Dining Table by TImbart"
+        },
+        {
+            "image":"../../assets/table2.png",
+            "price":"3.988",
+            "title":"Milo Baughman Two-Tone Lacquered"
+        },
+        {
+            "image":"../../assets/table3.png",
+            "price":"5.768",
+            "title":"Tall Coffee Table by Faina"
+        },
+        {
+            "image":"../assets/table4.png",
+            "price":"2.938",
+            "title":"Small Korotun Coffee Table by Faina"
+        },
+        {
+            "image":"../../assets/table5.png",
+            "price":"7.921",
+            "title":"Greenapple Side Table,Sistelo SideTable"
+        },
+        {
+            "image":"../../assets/table6.png",
+            "price":"12.783",
+            "title":"Roger Capron Rare Table"
+        },
+        {
+            "image":"../../assets/table7.png",
+            "price":"4.948",
+            "title":"Ad Meliora Dining Table"
+        },
+        {
+            "image":"../../assets/table8.png",
+            "price":"10.489",
+            "title":"Greenapple Coffee Table,Stone Coffee Table"
+        },
+        {
+            "image":"../../assets/table9.png",
+            "price":"5.345",
+            "title":"Contemporary Limited Edition White Glass Table"
+        }
+    ]  
+}

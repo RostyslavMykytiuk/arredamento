@@ -1,0 +1,22 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:0 3%;
+}
+.menu>h3{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #000000;
+}
+.menu>.links>a{
+    text-decoration:none;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #020912;
+    padding-right:20px;
+}

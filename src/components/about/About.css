@@ -1,0 +1,31 @@
+.about_container{
+    padding:0 3%;
+}
+.about_heading{
+    font-size: 70px;
+    font-family: 'Playfair Display';
+}
+.about_text{
+    display:flex;
+}
+.about_description{
+    border:1px solid black;
+    padding:30px 70px;
+    height:395px;
+    margin-bottom:30px;
+}
+.about_description>h2{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+}
+.about_container>p{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: rgba(92, 101, 113, 0.8);
+}

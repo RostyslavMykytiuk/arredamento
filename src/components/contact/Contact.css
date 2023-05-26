@@ -1,0 +1,41 @@
+.contact_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom:20px;
+}
+.contact_heading{
+    font-family: 'Playfair Display';
+}
+.contact_container>form{
+    text-align:left;
+}
+#comment{
+    width:900px;
+    height:200px;
+    padding:15px;
+}
+input,textarea{
+    border-radius:0;
+    border:1px solid black;
+}
+input{
+    width:400px;
+    padding:5px 14px;
+}
+#phone_number{
+    width:900px;
+}
+.data{
+    display:flex;
+    gap:68px;
+}
+button[type="submit"]{
+    background-color:#391e1e;
+    color:#fff;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 20px;
+    padding:10px 30px;
+    cursor: pointer;
+}
